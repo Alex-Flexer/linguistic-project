@@ -1,0 +1,145 @@
+{
+  "emoji_categories": [
+    {
+      "category": "Excitement",
+      "description": "Emojis expressing strong delight, excitement and unrestrained joy",
+      "emojis": [
+        "🥰",
+        "🤯",
+        "🎉",
+        "🤪",
+        "🍾",
+        "🤗",
+        "😎"
+      ]
+    },
+    {
+      "category": "Fun",
+      "description": "Emojis expressing fun, smiling or comic joy",
+      "emojis": [
+        "😁",
+        "🤣"
+      ]
+    },
+    {
+      "category": "Approval",
+      "description": "Emojis for expressing agreement, praise and positive evaluation",
+      "emojis": [
+        "👍",
+        "👏",
+        "💯",
+        "👌",
+        "🤝",
+        "🆒"
+      ]
+    },
+    {
+      "category": "Romance",
+      "description": "Emojis directly related to expressing love, sympathy and tenderness",
+      "emojis": [
+        "❤",
+        "💘",
+        "😍",
+        "😘",
+        "💋"
+      ]
+    },
+    {
+      "category": "Sadness",
+      "description": "Emojis expressing sadness, melancholy, tears and heartbreak",
+      "emojis": [
+        "😭",
+        "😢",
+        "💔",
+        "🥱"
+      ]
+    },
+    {
+      "category": "Anger",
+      "description": "Emojis for expressing anger, dislike, disgust and rude refusal",
+      "emojis": [
+        "😡",
+        "🤡",
+        "🤬",
+        "🖕",
+        "🤮",
+        "💩",
+        "👎",
+        "🥴"
+      ]
+    },
+    {
+      "category": "Fear",
+      "description": "Emojis conveying fright, shock, anxiety and nervous tension",
+      "emojis": [
+        "😨",
+        "😱"
+      ]
+    },
+    {
+      "category": "Irony",
+      "description": "Emojis for hints, irony, sarcasm or creating mystery",
+      "emojis": [
+        "🤨",
+        "🗿",
+        "🌚",
+        "💅",
+        "👀",
+        "😐",
+        "🤩",
+        "🙉",
+        "🙈",
+        "🙊",
+        "😴"
+      ]
+    },
+    {
+      "category": "Thought",
+      "description": "Emojis denoting thought process, contemplation and intellectual states",
+      "emojis": [
+        "🤔",
+        "🤓",
+        "✍",
+        "🤷"
+      ]
+    },
+    {
+      "category": "Characters",
+      "description": "Emojis depicting people, mythical and fairy tale creatures",
+      "emojis": [
+        "👨",
+        "👻",
+        "🦄",
+        "👾",
+        "🎅",
+        "😇",
+        "😈"
+      ]
+    },
+    {
+      "category": "Symbols",
+      "description": "Emoji objects, symbols or related to specific themes",
+      "emojis": [
+        "🏆",
+        "🔥",
+        "⚡",
+        "🐳",
+        "🎄",
+        "🎃",
+        "☃",
+        "🙏",
+        "🕊",
+        "💊"
+      ]
+    },
+    {
+      "category": "Erotic",
+      "description": "Emoji symbols related to erotic",
+      "emojis": [
+        "🍓",
+        "🍌",
+        "🌭"
+      ]
+    }
+  ]
+}

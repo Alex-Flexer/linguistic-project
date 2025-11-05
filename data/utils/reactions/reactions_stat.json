@@ -1,0 +1,485 @@
+{
+  "🥰": {
+    "title": "Love",
+    "category": "Excitement",
+    "count": 356,
+    "global_prop": 0.009636,
+    "category_prop": 0.407323
+  },
+  "🤯": {
+    "title": "Mind Blown",
+    "category": "Excitement",
+    "count": 135,
+    "global_prop": 0.003654,
+    "category_prop": 0.154462
+  },
+  "🎉": {
+    "title": "Party",
+    "category": "Excitement",
+    "count": 51,
+    "global_prop": 0.00138,
+    "category_prop": 0.058352
+  },
+  "🤪": {
+    "title": "Crazy",
+    "category": "Excitement",
+    "count": 38,
+    "global_prop": 0.001029,
+    "category_prop": 0.043478
+  },
+  "🍾": {
+    "title": "Champagne",
+    "category": "Excitement",
+    "count": 192,
+    "global_prop": 0.005197,
+    "category_prop": 0.21968
+  },
+  "🤗": {
+    "title": "Hugs",
+    "category": "Excitement",
+    "count": 16,
+    "global_prop": 0.000433,
+    "category_prop": 0.018307
+  },
+  "😎": {
+    "title": "Cool",
+    "category": "Excitement",
+    "count": 86,
+    "global_prop": 0.002328,
+    "category_prop": 0.098398
+  },
+  "😁": {
+    "title": "Happy",
+    "category": "Fun",
+    "count": 487,
+    "global_prop": 0.013181,
+    "category_prop": 0.7792
+  },
+  "🤣": {
+    "title": "LOL",
+    "category": "Fun",
+    "count": 138,
+    "global_prop": 0.003735,
+    "category_prop": 0.2208
+  },
+  "👍": {
+    "title": "OK",
+    "category": "Approval",
+    "count": 839,
+    "global_prop": 0.022709,
+    "category_prop": 0.589599
+  },
+  "👏": {
+    "title": "Bravo",
+    "category": "Approval",
+    "count": 68,
+    "global_prop": 0.001841,
+    "category_prop": 0.047786
+  },
+  "💯": {
+    "title": "100%",
+    "category": "Approval",
+    "count": 451,
+    "global_prop": 0.012207,
+    "category_prop": 0.316936
+  },
+  "👌": {
+    "title": "Perfect",
+    "category": "Approval",
+    "count": 15,
+    "global_prop": 0.000406,
+    "category_prop": 0.010541
+  },
+  "🤝": {
+    "title": "Deal",
+    "category": "Approval",
+    "count": 41,
+    "global_prop": 0.00111,
+    "category_prop": 0.028812
+  },
+  "🆒": {
+    "title": "Cool",
+    "category": "Approval",
+    "count": 9,
+    "global_prop": 0.000244,
+    "category_prop": 0.006325
+  },
+  "❤": {
+    "title": "Love",
+    "category": "Romance",
+    "count": 14256,
+    "global_prop": 0.38586,
+    "category_prop": 0.664801
+  },
+  "💘": {
+    "title": "In Love",
+    "category": "Romance",
+    "count": 6556,
+    "global_prop": 0.177448,
+    "category_prop": 0.305727
+  },
+  "😍": {
+    "title": "In Love",
+    "category": "Romance",
+    "count": 85,
+    "global_prop": 0.002301,
+    "category_prop": 0.003964
+  },
+  "😘": {
+    "title": "Kiss",
+    "category": "Romance",
+    "count": 78,
+    "global_prop": 0.002111,
+    "category_prop": 0.003637
+  },
+  "💋": {
+    "title": "Kiss",
+    "category": "Romance",
+    "count": 469,
+    "global_prop": 0.012694,
+    "category_prop": 0.021871
+  },
+  "😭": {
+    "title": "Crying",
+    "category": "Sadness",
+    "count": 240,
+    "global_prop": 0.006496,
+    "category_prop": 0.382166
+  },
+  "😢": {
+    "title": "Sad",
+    "category": "Sadness",
+    "count": 64,
+    "global_prop": 0.001732,
+    "category_prop": 0.101911
+  },
+  "💔": {
+    "title": "Heartbroken",
+    "category": "Sadness",
+    "count": 248,
+    "global_prop": 0.006712,
+    "category_prop": 0.394904
+  },
+  "🥱": {
+    "title": "Bored",
+    "category": "Sadness",
+    "count": 76,
+    "global_prop": 0.002057,
+    "category_prop": 0.121019
+  },
+  "😡": {
+    "title": "Angry",
+    "category": "Anger",
+    "count": 134,
+    "global_prop": 0.003627,
+    "category_prop": 0.136735
+  },
+  "🤡": {
+    "title": "Clown",
+    "category": "Anger",
+    "count": 228,
+    "global_prop": 0.006171,
+    "category_prop": 0.232653
+  },
+  "🤬": {
+    "title": "Cursing",
+    "category": "Anger",
+    "count": 36,
+    "global_prop": 0.000974,
+    "category_prop": 0.036735
+  },
+  "🖕": {
+    "title": "F*** You",
+    "category": "Anger",
+    "count": 14,
+    "global_prop": 0.000379,
+    "category_prop": 0.014286
+  },
+  "🤮": {
+    "title": "Disgusting",
+    "category": "Anger",
+    "count": 24,
+    "global_prop": 0.00065,
+    "category_prop": 0.02449
+  },
+  "💩": {
+    "title": "Shit",
+    "category": "Anger",
+    "count": 28,
+    "global_prop": 0.000758,
+    "category_prop": 0.028571
+  },
+  "👎": {
+    "title": "Bad",
+    "category": "Anger",
+    "count": 491,
+    "global_prop": 0.01329,
+    "category_prop": 0.50102
+  },
+  "🥴": {
+    "title": "Drunk",
+    "category": "Anger",
+    "count": 25,
+    "global_prop": 0.000677,
+    "category_prop": 0.02551
+  },
+  "😨": {
+    "title": "Scared",
+    "category": "Fear",
+    "count": 56,
+    "global_prop": 0.001516,
+    "category_prop": 0.186047
+  },
+  "😱": {
+    "title": "Terrified",
+    "category": "Fear",
+    "count": 245,
+    "global_prop": 0.006631,
+    "category_prop": 0.813953
+  },
+  "🤨": {
+    "title": "Suspicious",
+    "category": "Irony",
+    "count": 75,
+    "global_prop": 0.00203,
+    "category_prop": 0.066667
+  },
+  "🗿": {
+    "title": "Stone Face",
+    "category": "Irony",
+    "count": 85,
+    "global_prop": 0.002301,
+    "category_prop": 0.075556
+  },
+  "🌚": {
+    "title": "Awkward",
+    "category": "Irony",
+    "count": 28,
+    "global_prop": 0.000758,
+    "category_prop": 0.024889
+  },
+  "💅": {
+    "title": "Whatever",
+    "category": "Irony",
+    "count": 141,
+    "global_prop": 0.003816,
+    "category_prop": 0.125333
+  },
+  "👀": {
+    "title": "Looking",
+    "category": "Irony",
+    "count": 29,
+    "global_prop": 0.000785,
+    "category_prop": 0.025778
+  },
+  "😐": {
+    "title": "Whatever",
+    "category": "Irony",
+    "count": 13,
+    "global_prop": 0.000352,
+    "category_prop": 0.011556
+  },
+  "🤩": {
+    "title": "Wow",
+    "category": "Irony",
+    "count": 701,
+    "global_prop": 0.018974,
+    "category_prop": 0.623111
+  },
+  "🙉": {
+    "title": "Not Listening",
+    "category": "Irony",
+    "count": 25,
+    "global_prop": 0.000677,
+    "category_prop": 0.022222
+  },
+  "🙈": {
+    "title": "Can't Watch",
+    "category": "Irony",
+    "count": 21,
+    "global_prop": 0.000568,
+    "category_prop": 0.018667
+  },
+  "🙊": {
+    "title": "Can't Tell",
+    "category": "Irony",
+    "count": 2,
+    "global_prop": 5.4e-05,
+    "category_prop": 0.001778
+  },
+  "😴": {
+    "title": "Sleeping",
+    "category": "Irony",
+    "count": 5,
+    "global_prop": 0.000135,
+    "category_prop": 0.004444
+  },
+  "🤔": {
+    "title": "Thinking",
+    "category": "Thought",
+    "count": 165,
+    "global_prop": 0.004466,
+    "category_prop": 0.763889
+  },
+  "🤓": {
+    "title": "Nerd",
+    "category": "Thought",
+    "count": 27,
+    "global_prop": 0.000731,
+    "category_prop": 0.125
+  },
+  "✍": {
+    "title": "Writing",
+    "category": "Thought",
+    "count": 24,
+    "global_prop": 0.00065,
+    "category_prop": 0.111111
+  },
+  "🤷": {
+    "title": "Whatever",
+    "category": "Thought",
+    "count": 0,
+    "global_prop": 0.0,
+    "category_prop": 0.0
+  },
+  "👨": {
+    "title": "Man",
+    "category": "Characters",
+    "count": 0,
+    "global_prop": 0.0,
+    "category_prop": 0.0
+  },
+  "👻": {
+    "title": "Ghost",
+    "category": "Characters",
+    "count": 18,
+    "global_prop": 0.000487,
+    "category_prop": 0.063158
+  },
+  "🦄": {
+    "title": "Unicorn",
+    "category": "Characters",
+    "count": 64,
+    "global_prop": 0.001732,
+    "category_prop": 0.224561
+  },
+  "👾": {
+    "title": "Alien",
+    "category": "Characters",
+    "count": 15,
+    "global_prop": 0.000406,
+    "category_prop": 0.052632
+  },
+  "🎅": {
+    "title": "Santa",
+    "category": "Characters",
+    "count": 45,
+    "global_prop": 0.001218,
+    "category_prop": 0.157895
+  },
+  "😇": {
+    "title": "Angel",
+    "category": "Characters",
+    "count": 61,
+    "global_prop": 0.001651,
+    "category_prop": 0.214035
+  },
+  "😈": {
+    "title": "Devil",
+    "category": "Characters",
+    "count": 82,
+    "global_prop": 0.002219,
+    "category_prop": 0.287719
+  },
+  "🏆": {
+    "title": "Winner",
+    "category": "Symbols",
+    "count": 202,
+    "global_prop": 0.005467,
+    "category_prop": 0.042589
+  },
+  "🔥": {
+    "title": "Fire",
+    "category": "Symbols",
+    "count": 1409,
+    "global_prop": 0.038137,
+    "category_prop": 0.297069
+  },
+  "⚡": {
+    "title": "Fast",
+    "category": "Symbols",
+    "count": 70,
+    "global_prop": 0.001895,
+    "category_prop": 0.014759
+  },
+  "🐳": {
+    "title": "Whale",
+    "category": "Symbols",
+    "count": 491,
+    "global_prop": 0.01329,
+    "category_prop": 0.103521
+  },
+  "🎄": {
+    "title": "Christmas",
+    "category": "Symbols",
+    "count": 51,
+    "global_prop": 0.00138,
+    "category_prop": 0.010753
+  },
+  "🎃": {
+    "title": "Halloween",
+    "category": "Symbols",
+    "count": 17,
+    "global_prop": 0.00046,
+    "category_prop": 0.003584
+  },
+  "☃": {
+    "title": "Winter",
+    "category": "Symbols",
+    "count": 2360,
+    "global_prop": 0.063877,
+    "category_prop": 0.497575
+  },
+  "🙏": {
+    "title": "Please",
+    "category": "Symbols",
+    "count": 46,
+    "global_prop": 0.001245,
+    "category_prop": 0.009699
+  },
+  "🕊": {
+    "title": "Peace",
+    "category": "Symbols",
+    "count": 55,
+    "global_prop": 0.001489,
+    "category_prop": 0.011596
+  },
+  "💊": {
+    "title": "Pills",
+    "category": "Symbols",
+    "count": 42,
+    "global_prop": 0.001137,
+    "category_prop": 0.008855
+  },
+  "🍓": {
+    "title": "Strawberry",
+    "category": "Erotic",
+    "count": 259,
+    "global_prop": 0.00701,
+    "category_prop": 0.746398
+  },
+  "🍌": {
+    "title": "Banana",
+    "category": "Erotic",
+    "count": 44,
+    "global_prop": 0.001191,
+    "category_prop": 0.126801
+  },
+  "🌭": {
+    "title": "Hot Dog",
+    "category": "Erotic",
+    "count": 44,
+    "global_prop": 0.001191,
+    "category_prop": 0.126801
+  }
+}
