@@ -2,7 +2,6 @@ from nltk.corpus import stopwords
 from nltk.tokenize import sent_tokenize, word_tokenize
 import pymorphy3
 
-from string import punctuation
 import re
 import json
 
@@ -13,7 +12,7 @@ stopwords_ru = stopwords.words("russian")
 
 def normalize_text(text: str) -> list[list[str]]:
     sents = [
-        word_tokenize(re.sub(r"\s+", ' ', re.sub(fr"[{punctuation}]", ' ', sent)))
+        word_tokenize(re.sub(r"\s+", ' ', re.sub(fr"[^а-яa-z0-9]", ' ', sent)))
         for sent in sent_tokenize(text.lower().strip())
     ]
     sents = [
